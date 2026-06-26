@@ -1,0 +1,6 @@
+{
+  "name": "Royal Connaught Boat Club Archive",
+  "description": "An elegant, historical showcase, interactive archival explorer, and membership guide for the Royal Connaught Boat Club in Pune, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
